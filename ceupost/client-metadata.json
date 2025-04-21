@@ -1,0 +1,18 @@
+{
+  "client_id": "https://cjrriley.com/ceupost/client-metadata.json",
+  "application_type": "native",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "scope": "atproto transition:generic",
+  "response_types": [
+    "code"
+  ],
+  "redirect_uris": [
+    "com.cjrriley.ceupost:/atproto/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "dpop_bound_access_tokens": true,
+  "client_name": "Ceupost"
+}
