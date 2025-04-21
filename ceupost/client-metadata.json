@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cjrriley.com/ceupost/client-metadata.json",
+  "client_id": "https://masterj93.github.io/bluesky-oauth/ceupost/client-metadata.json",
   "application_type": "native",
   "grant_types": [
     "authorization_code",
