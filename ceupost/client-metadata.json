@@ -10,7 +10,7 @@
     "code"
   ],
   "redirect_uris": [
-    "com.cjrriley.ceupost:/callback"
+    "io.github.masterj93:/callback"
   ],
   "token_endpoint_auth_method": "none",
   "dpop_bound_access_tokens": true,
