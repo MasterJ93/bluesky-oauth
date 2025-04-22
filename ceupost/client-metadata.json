@@ -10,7 +10,7 @@
     "code"
   ],
   "redirect_uris": [
-    "com.cjrriley.ceupost:/atproto/callback"
+    "com.cjrriley.ceupost:/callback"
   ],
   "token_endpoint_auth_method": "none",
   "dpop_bound_access_tokens": true,
